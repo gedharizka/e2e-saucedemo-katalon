@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>login_failed</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cf253172-9f38-4852-af34-4347f641b799</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>c59a5643-7e99-45b1-b6b9-181005d9dfd9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'loced_out_user'</defaultValue>
+      <description></description>
+      <id>c59a5643-7e99-45b1-b6b9-181005d9dfd9</id>
+      <masked>false</masked>
+      <name>invalid_username</name>
+   </variable>
+</TestCaseEntity>
